@@ -1,0 +1,7 @@
+elpa/
+.lsp-session-v1
+backup/
+transient/
+recentf
+.cache/
+auto-save-list/
